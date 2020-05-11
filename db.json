@@ -1,13 +1,13 @@
 {
    "sequence": [
-       {
-           "id": 1,
-           "sequenceName": "INTU_SEQUENCE_TYPE_BILL_NO_100_US",
-           "requester": "US-1",
-           "createdTime": "2020-05-11T13:59:05.675+0000",
-           "fixedString": "10001",
-           "sequenceId": 49930642
-       }
+   {
+        "id": 1,
+        "requester": "MASTER",
+        "fixedString": "23001",
+        "sequenceId": "2147483646",
+        "sequenceName": "INTU_SEQUENCE_TYPE_BILL_NO_100_US",
+        "createdTime": "2020-05-05T08:00:28.013 0000"
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
