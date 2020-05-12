@@ -1,10 +1,9 @@
 {
    "sequence": [
    {
-        "id": 1,
         "requester": "MASTER",
         "fixedString": "23001",
-        "sequenceId": "2147483646",
+        "sequenceId": 2147483646,
         "sequenceName": "INTU_SEQUENCE_TYPE_BILL_NO_100_US",
         "createdTime": "2020-05-05T08:00:28.013 0000"
     }
